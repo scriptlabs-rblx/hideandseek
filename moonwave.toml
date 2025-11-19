@@ -8,5 +8,5 @@ docs = "docs"
 
 language = "en"
 
-gitRepoUrl = "https://github.com/scriptlabs-rblx/hideandseek"
+gitRepoUrl = "https://github.com/scriptlabs-rblx/hideandseek.git"
 gitSourceBranch = "main"
